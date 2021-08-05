@@ -1,0 +1,9 @@
+django
+djoser
+djangorestframework
+django-filter
+djangorestframework-simplejwt
+Pillow
+drf-yasg
+faker
+aiohttp
